@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Espresso Test</string>
+    <string name="nim">NIM</string>
+    <string name="nama">Nama</string>
+    <string name="tambah_mahasiswa">Tambah Mahasiswa</string>
+    <string name="simpan">Simpan</string>
+    <string name="batal">Batal</string>
+    <string name="nim_wajib_diisi">NIM wajib diisi</string>
+    <string name="nim_harus_10chars">NIM harus 10 karakter</string>
+    <string name="nama_wajib_diisi">Nama wajib diisi</string>
+    <string name="hapus">Hapus</string>
+    <string name="mahasiswa_klik">%1$s diklik!</string>
+    <string name="pesan_hapus">Hapus Mahasiswa terpilih?</string>
+    <string name="tidak_ada_data">Tidak ada data</string>
 </resources>
